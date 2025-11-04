@@ -1,0 +1,38 @@
+# Requirements pour le projet Bot
+
+# =========================
+# Packages essentiels
+# =========================
+python-dotenv>=1.0.0
+discord.py>=2.6.0
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+orjson>=3.9.0
+
+# =========================
+# Visualisation et graphiques
+# =========================
+matplotlib>=3.7.0
+plotly>=5.17.0
+kaleido>=0.2.1
+
+# =========================
+# Analyse IA et sentiment
+# =========================
+nltk>=3.8.0
+transformers>=4.30.0
+torch>=2.0.0
+openai>=1.0.0
+
+# =========================
+# Packages optionnels
+# =========================
+requests>=2.31.0
+
+# =========================
+# Packages pour le développement
+# =========================
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
